@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: balondochristian22@gmail.com
-    phone: '09100252612'
+    phone: '09277645857'
     facebook: facebook.com/stylitee #do not add http://
     linkedin: www.linkedin.com/in/christian-balondo-7622811b7/
     twitter: stylitee
@@ -71,10 +71,19 @@ experiences:
       time: 2018 - 2019
       company: Quantrics Enterprise, Bell Canada
       details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
         Customer service representatives help customers with complaints and questions, 
-        give customers information about products and services, take orders, and process
-        returns. By helping customers understand the product and answering questions
-        about their reservations, they are sometimes seen as having a role in sales.
+        give customers information about products and services, take orders, and proces
+          - Bullet point
+          - Bullet point
         
 projects:
     title: Projects
