@@ -93,11 +93,11 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Njord.tech (Resort Management System)
-        link: "#https://github.com/stylitee/Njord.tech"
+        link: "https://github.com/stylitee/Njord.tech"
         tagline: "A multi-system desktop applications who handle, employment management, inventory system, point of sale system and reservation system in a one desktop application"
 
       - title: Basketball Tournament Manager
-        link: "#https://github.com/stylitee/BatMan"
+        link: "https://github.com/stylitee/BatMan"
         tagline: "A desktop application that handles tournaments of barangay in naga city."
 
       - title: Uling Roosters POS system
@@ -105,11 +105,11 @@ projects:
         tagline: "A system who handle day to day transactions and inventory of products with ease"
 
       - title: Lumiere
-        link: "#https://github.com/stylitee/LumiereMobile"
+        link: "https://github.com/stylitee/LumiereMobile"
         tagline: "A mobile application that transform real money to e-money and can be use for transactions"
 
       - title: Dog Haven
-        link: "#https://github.com/stylitee/capstoneProject"
+        link: "https://github.com/stylitee/capstoneProject"
         tagline: "A mobile applications that helps dog owners, dog lovers, and dog business owner to handle everything about the dogs"
         
 publications:
@@ -119,7 +119,7 @@ publications:
       
     papers:
       - title: The Need to Develop a Career and Placement Management System in University of Nueva Caceres
-        link: "#https://www.researchgate.net/publication/335745313_Chapter_1_-_3_The_Need_to_Develop_Career_and_Placement_Management_System_in_UNC-CPSO"
+        link: "https://www.researchgate.net/publication/335745313_Chapter_1_-_3_The_Need_to_Develop_Career_and_Placement_Management_System_in_UNC-CPSO"
         researchers: Christian Balondo, Kristine Joy Samson
         Date finished: "Novermber 2019"
 
