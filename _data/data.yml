@@ -7,185 +7,138 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Christian Balondo
+    tagline: Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
+    email: balondochristian22@gmail.com
+    phone: '09100252612'
+    facebook: facebook.com/stylitee #do not add http://
+    linkedin: www.linkedin.com/in/christian-balondo-7622811b7/
+    twitter: stylitee
+    github: stylitee
+    gitlab: stylitee
     twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    stack-overflow: 15024068/christian-balondo
 
     languages:
-      - idiom: English
+      - idiom: Bicol
         level: Native
 
-      - idiom: French
+      - idiom: Tagalog
         level: Professional
 
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Gaming
         link:
 
-      - item: Snowboarding
+      - item: Music
         link:
 
-      - item: Cooking
+      - item: Travel
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      i am a diligent graduate of bachelor of science in
+      information technology from university of nueva caceres. Iam knowledgable in building
+      mobile applications, web applications, desktop application and database design,and also has an intermdiate
+      level of programming skills in languages like c#, .net framework, angular, react, html, css, java script, and sql.
+      i also receive certificates through online courses like, google it certification and
+      packet tracer from cisco and many more..
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bachelor of Science in Information Technology
+      university: University of Nueva Caceres
+      time: 2014 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Studying at University of Nueva Caceres especially during my college years made me a professional not just on how
+        you do things and also on how you act towards everything.
+
+    - degree: Associates Degree on Computer Technology
+      university: University of Nueva Caceres
+      time: 2019 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Studying at University of Nueva Caceres especially during my college years made me a professional not just on how
+        you do things and also on how you act towards everything.
+        
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Customer Service Representative
+      time: 2018 - 2019
+      company: Quantrics Enterprise, Bell Canada
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Customer service representatives help customers with complaints and questions, 
+        give customers information about products and services, take orders, and process
+        returns. By helping customers understand the product and answering questions
+        about their reservations, they are sometimes seen as having a role in sales.
+        
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      In this section enumerates the number of projects I created
+      
+    Projects Created:
+      - title: Njord.tech (Resort Management System)
+        link: "https://github.com/stylitee/Njord.tech"
+        tagline: "A multi-system desktop applications who handle, employment management, inventory system, point of sale system and reservation system in a one desktop application"
 
-      - title: DevStudio
+      - title: Basketball Tournament Manager
+        link: "https://github.com/stylitee/BatMan"
+        tagline: "A desktop application that handles tournaments of barangay in naga city."
+
+      - title: Uling Roosters POS system
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A system who handle day to day transactions and inventory of products with ease"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Lumiere
+        link: "https://github.com/stylitee/LumiereMobile"
+        tagline: "A mobile application that transform real money to e-money and can be use for transactions"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+      - title: Dog Haven
+        link: "https://github.com/stylitee/capstoneProject"
+        tagline: "A mobile applications that helps dog owners, dog lovers, and dog business owner to handle everything about the dogs"
+        
 publications:
-    title: Publications
+    title: Researches
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      In this section I will enumerate the researches that I handled.
+      
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: The Need to Develop a Career and Placement Management System in University of Nueva Caceres
+        link: "https://www.researchgate.net/publication/335745313_Chapter_1_-_3_The_Need_to_Develop_Career_and_Placement_Management_System_in_UNC-CPSO"
+        researchers: Christian Balondo, Kristine Joy Samson
+        Date finished: "Novermber 2019"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Dog Haven: A One-stop Dog Care Application"
+        link: "TBA"
+        researchers: Christian Balondo, Abegail Firme, Marc Benedict Abogado
+        Date finished: "In Progress"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: C#
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Xamarin
         level: 95%
 
-      - name: Ruby on Rails
+      - name: HTML5 & CSS
+        level: 90%
+
+      - name: React.JS
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Angular
+        level: 85%
+
+      - name: SQL Databases
+        level: 90%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Christian Balondo</a>
