@@ -88,9 +88,8 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      In this section is the list of projects that I created that linked
+      in to my github account.
     assignments:
       - title: Njord.tech (Resort Management System)
         link: "https://github.com/stylitee/Njord.tech"
